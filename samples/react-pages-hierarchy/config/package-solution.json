@@ -4,8 +4,8 @@
     "name": "react-pages-hierarchy",
     "id": "89758fb6-85e2-4e2b-ac88-4f4e7e5f60cb",
     "title": "Pages Hierarchy",
-    "version": "1.0.7.0",
-    "includeClientSideAssets": true,
+    "version": "1.0.7.5",
+    "includeClientSideAssets": false,
     "isDomainIsolated": false,
     "developer": {
       "name": "Bo George",
