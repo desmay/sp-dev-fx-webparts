@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
     "name": "react-pages-hierarchy",
-    "id": "89758fb6-85e2-4e2b-ac88-4f4e7e5f60cb",
+    "id": "17dc8671-8936-41d6-8db2-2c72f7d47977",
     "title": "Pages Hierarchy",
-    "version": "1.0.7.5",
-    "includeClientSideAssets": false,
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "developer": {
       "name": "Bo George",
